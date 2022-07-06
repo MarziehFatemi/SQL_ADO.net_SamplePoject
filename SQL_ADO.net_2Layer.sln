@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQL_ADO.net_2Layer", "SQL_ADO.net_2Layer\SQL_ADO.net_2Layer.csproj", "{5F4B06D0-311C-4323-859D-62D90AC35261}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussinessLayer", "BussinessLayer\BussinessLayer.csproj", "{540C89C9-4513-446F-9F5A-99737E06ABCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F4B06D0-311C-4323-859D-62D90AC35261}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F4B06D0-311C-4323-859D-62D90AC35261}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F4B06D0-311C-4323-859D-62D90AC35261}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F4B06D0-311C-4323-859D-62D90AC35261}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540C89C9-4513-446F-9F5A-99737E06ABCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540C89C9-4513-446F-9F5A-99737E06ABCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540C89C9-4513-446F-9F5A-99737E06ABCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540C89C9-4513-446F-9F5A-99737E06ABCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C147F339-8F77-45D0-B1D9-97F3B938D57D}
+	EndGlobalSection
+EndGlobal
